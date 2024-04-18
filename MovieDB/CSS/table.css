@@ -1,0 +1,35 @@
+
+body {
+    width: 100%;
+    background-image: linear-gradient(to bottom right, rgb(171,227,251), #cecdf3, rgb(202, 202, 202));
+    font-family: "Manjari", sans-serif;
+    color: white;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#movie_poster {
+    width: 35%;
+    float: left;
+}
+
+.container {
+    width: 40%;
+    height: 200px;
+    float: right;
+    background-color: rgba(202, 202, 202, 0.171);
+    margin-bottom: 10px;
+    margin-left: 450px;
+    padding: 5px;
+}
+
+#director_pic {
+    width: 25%;
+    display: none;
+}
+
+
+
+

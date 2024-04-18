@@ -1,0 +1,23 @@
+Movies
+
+104, DR, The Motorcycle Diaries, 15 January 2004, The_Motorcycle_Diaries.jpg
+102, AC, Gladiator, May 1 2000, Gladiator.png
+103, DR, Saving Private Ryan, July 24 1998, Saving_Private_Ryan_poster.jpg
+104, CO, Austin Powers: International Man of Mystery, May 2 1997, Austin_Powers_International_Man_of_Mystery.jpg
+103, DR, Schindler's List, November 30 1993, Schindler_List_movie.jpg
+104, DR, The Godfather, March 14 1972, The_Godfather.jpg
+
+Directors
+
+101, Jay Roach, Jay_Roach.jpg
+102, Ridley Scott, Ridley_Scott.jpg
+103, Steven Spielberg, Steven_Spielberg.jpg
+104, Walter Salles, Walter_Salles.jpg
+105, Francis Ford Coppola, Francis_Ford_Coppola.jpg
+
+Genres
+
+DR, Drama
+AC, Action
+CO, Comedy
+
